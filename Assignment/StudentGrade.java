@@ -10,7 +10,8 @@ public class StudentGrade {
 
         try {
             if (percentage < 0 || percentage > 100) {
-                throw new Exception("Percentage must be between 0 and 100.");
+                45
+                
             }
 
             if (percentage >= 85) {
