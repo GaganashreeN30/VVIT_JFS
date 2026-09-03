@@ -11,7 +11,7 @@ public class P2 {
         // Encapsulate credentials and connection options in a Properties object
         Properties connectionProps = new Properties();
         connectionProps.put("user", "root");
-        connectionProps.put("password", "password");
+        connectionProps.put("password", "gagana@123");
 
         // Advanced JDBC driver parameters
         connectionProps.put("useSSL", "false");
